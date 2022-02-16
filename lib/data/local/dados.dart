@@ -51,7 +51,6 @@ List<Usuario> usuariosOnline = [
 ];
 
 /* Lista de estórias */
-/*
 
 List<Estoria> estorias = [
   Estoria(
@@ -90,8 +89,7 @@ List<Estoria> estorias = [
   ),
 ];
 
-*/
-/* Lista de postagens *//*
+/* Lista de postagens */
 
 List<Postagem> postagens = [
   Postagem(
@@ -170,4 +168,4 @@ List<Postagem> postagens = [
       comentarios: 25,
       compartilhamentos: 3
   ),
-];*/
+];
