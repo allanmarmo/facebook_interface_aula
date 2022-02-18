@@ -1,4 +1,5 @@
 import 'package:facebook_interface_aula/presentation/screens/home.dart';
+import 'package:facebook_interface_aula/presentation/screens/principal.dart';
 import 'package:facebook_interface_aula/util/paleta_cores.dart';
 import 'package:flutter/material.dart';
 
@@ -7,6 +8,7 @@ void main() {
     title: "Facebook",
     debugShowCheckedModeBanner: false,
     theme: ThemeData(scaffoldBackgroundColor: PaletaCores.scaffold),
-    home: Home(),
+    // home: Home(),
+    home: Principal(),
   ));
 }
